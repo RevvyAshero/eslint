@@ -30,4 +30,3 @@ jobs:
         with:
           name: eslint-security-report
           path: eslint-report.json
-          
